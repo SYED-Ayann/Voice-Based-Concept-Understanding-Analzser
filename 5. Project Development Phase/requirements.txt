@@ -9,4 +9,4 @@ reportlab
 torch
 nltk
 google-generativeai
-streamlit-audiorecorder
+audio-recorder-streamlit
